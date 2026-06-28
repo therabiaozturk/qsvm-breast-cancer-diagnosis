@@ -1,0 +1,6 @@
+numpy
+matplotlib
+scikit-learn
+streamlit
+qiskit
+qiskit-machine-learning
