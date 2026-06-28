@@ -2,6 +2,16 @@
 
 Bu proje, Wisconsin Meme Kanseri Veri Seti üzerinde Klasik Destek Vektör Makineleri (SVM) ile Kuantum Destekli Destek Vektör Makinelerinin (QSVM) performanslarını karşılaştırmak amacıyla geliştirilmiş bir Streamlit uygulamasıdır. Çalışma, kuantum makine öğrenmesi yöntemlerinin tıbbi veri sınıflandırma problemlerindeki uygulanabilirliğini incelemektedir. `app.py` ana giriş dosyası olarak kalır ve uygulama, kuantum makine öğrenmesi yaklaşımını görselleştirir.
 
+## Technologies
+
+- Python
+- Streamlit
+- Qiskit
+- Scikit-Learn
+- NumPy
+- Pandas
+- Matplotlib
+
 ## Ana Sayfa
 
 <p align="center">
